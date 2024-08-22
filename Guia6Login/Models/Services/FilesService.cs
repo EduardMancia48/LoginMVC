@@ -4,7 +4,7 @@ using Firebase.Storage;
 
 namespace Guia6Login.Models.Services
 {
-    public class FilesService : IFileHelper
+    public class FilesService :IFilesService
     {
       
             public async Task<string> SubirArchivo(Stream archivo, string nombre)

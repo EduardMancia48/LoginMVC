@@ -1,6 +1,6 @@
 ﻿namespace Guia6Login.Models.Services
 {
-    public interface IFileHelper
+    public interface IFilesService
     {
         Task<string> SubirArchivo(Stream archivo, string nombre);
     }

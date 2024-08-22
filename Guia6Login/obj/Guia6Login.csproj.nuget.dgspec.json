@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Guia6Login.csproj": {}
+    "D:\\LoginMVC\\Guia6Login\\Guia6Login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Guia6Login.csproj": {
+    "D:\\LoginMVC\\Guia6Login\\Guia6Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Guia6Login.csproj",
+        "projectUniqueName": "D:\\LoginMVC\\Guia6Login\\Guia6Login.csproj",
         "projectName": "Guia6Login",
-        "projectPath": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Guia6Login.csproj",
-        "packagesPath": "C:\\Users\\Luz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\obj\\",
+        "projectPath": "D:\\LoginMVC\\Guia6Login\\Guia6Login.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "D:\\LoginMVC\\Guia6Login\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [

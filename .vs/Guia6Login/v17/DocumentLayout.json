@@ -1,46 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\",
+  "WorkspaceRootPath": "D:\\LoginMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\models\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\models\\services\\ifilesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\ifilesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\models\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\models\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\models\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Migrations\\20240819221026_Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Guia6Login\\Migrations\\20240819221026_Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\models\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\views\\login\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\views\\login\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\views\\login\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\views\\login\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\services\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\services\\ifilesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\services\\ifilesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|c:\\users\\luz\\source\\repos\\guia6login\\guia6login\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\migrations\\20240819221026_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\migrations\\20240819221026_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|d:\\loginmvc\\guia6login\\migrations\\20240820181522_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F2DC81-55A2-4773-819F-0399FD0CBBB3}|Guia6Login\\Guia6Login.csproj|solutionrelative:guia6login\\migrations\\20240820181522_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,141 +94,260 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240820181522_Inicial.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Migrations\\20240820181522_Inicial.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Migrations\\20240820181522_Inicial.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Migrations\\20240820181522_Inicial.cs",
+              "RelativeToolTip": "Guia6Login\\Migrations\\20240820181522_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:15:23.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FilesService.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\FilesService.cs",
-              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\FilesService.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\FilesService.cs",
-              "RelativeToolTip": "Guia6Login\\Models\\Services\\FilesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Guia6Login\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowDcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:54:47.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T15:07:59.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IFilesService.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\IFilesService.cs",
-              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\IFilesService.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\IFilesService.cs",
-              "RelativeToolTip": "Guia6Login\\Models\\Services\\IFilesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Program.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Program.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Program.cs",
+              "RelativeToolTip": "Guia6Login\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:51:43.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T22:03:06.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Guia6Login\\Models\\Services\\UsuarioService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAaAAAA",
+              "DocumentIndex": 11,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Views\\Login\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Guia6Login\\Views\\Login\\Registro.cshtml",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Views\\Login\\Registro.cshtml",
+              "RelativeToolTip": "Guia6Login\\Views\\Login\\Registro.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T16:45:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Guia6Login\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:40:25.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T15:28:56.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\Utilidades.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\Utilidades.cs",
+              "RelativeToolTip": "Guia6Login\\Models\\Services\\Utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:19:24.318Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\IUsuarioService.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\IUsuarioService.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\IUsuarioService.cs",
               "RelativeToolTip": "Guia6Login\\Models\\Services\\IUsuarioService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:28:05.819Z",
+              "WhenOpened": "2024-08-19T22:28:05.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilesService.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\FilesService.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\FilesService.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\FilesService.cs",
+              "RelativeToolTip": "Guia6Login\\Models\\Services\\FilesService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:54:47.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Guia6Login\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wD8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:06:03.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Services.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\Services.cs",
-              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\Services.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Services\\Services.cs",
-              "RelativeToolTip": "Guia6Login\\Models\\Services\\Services.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:20:56.323Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\appsettings.json",
+              "RelativeDocumentMoniker": "Guia6Login\\appsettings.json",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\appsettings.json",
+              "RelativeToolTip": "Guia6Login\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T22:01:57.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240819221026_Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Migrations\\20240819221026_Usuarios.cs",
-              "RelativeDocumentMoniker": "Guia6Login\\Migrations\\20240819221026_Usuarios.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Migrations\\20240819221026_Usuarios.cs",
-              "RelativeToolTip": "Guia6Login\\Migrations\\20240819221026_Usuarios.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:10:26.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Program.cs",
-              "RelativeDocumentMoniker": "Guia6Login\\Program.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Program.cs",
-              "RelativeToolTip": "Guia6Login\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:03:06.206Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Views\\Login\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "Guia6Login\\Views\\Login\\IniciarSesion.cshtml",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Views\\Login\\IniciarSesion.cshtml",
+              "RelativeToolTip": "Guia6Login\\Views\\Login\\IniciarSesion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T16:47:52.89Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\appsettings.json",
-              "RelativeDocumentMoniker": "Guia6Login\\appsettings.json",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\appsettings.json",
-              "RelativeToolTip": "Guia6Login\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-19T22:01:57.461Z",
-              "EditorCaption": ""
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Guia6Login\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Guia6Login\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T17:44:50.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Guia6Login\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Guia6Login\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T17:44:53.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Guia6Login\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Guia6Login\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T17:45:21.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Guia6Login\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Guia6Login\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T17:45:31.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFilesService.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\IFilesService.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\IFilesService.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\IFilesService.cs",
+              "RelativeToolTip": "Guia6Login\\Models\\Services\\IFilesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:51:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\UsuarioService.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Guia6Login\\Models\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:40:25.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Services.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Models\\Services\\Services.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\Services\\Services.cs",
+              "RelativeToolTip": "Guia6Login\\Models\\Services\\Services.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:20:56.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "UsuarioContext.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\UsuarioContext.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\UsuarioContext.cs",
               "RelativeDocumentMoniker": "Guia6Login\\Models\\UsuarioContext.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\UsuarioContext.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\UsuarioContext.cs",
               "RelativeToolTip": "Guia6Login\\Models\\UsuarioContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:57:33.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T21:57:33.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Usuario.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Guia6Login\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Guia6Login\\Guia6Login\\Models\\Usuario.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Models\\Usuario.cs",
               "RelativeToolTip": "Guia6Login\\Models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:53:22.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T21:53:22.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240819221026_Usuarios.cs",
+              "DocumentMoniker": "D:\\LoginMVC\\Guia6Login\\Migrations\\20240819221026_Usuarios.cs",
+              "RelativeDocumentMoniker": "Guia6Login\\Migrations\\20240819221026_Usuarios.cs",
+              "ToolTip": "D:\\LoginMVC\\Guia6Login\\Migrations\\20240819221026_Usuarios.cs",
+              "RelativeToolTip": "Guia6Login\\Migrations\\20240819221026_Usuarios.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:10:26.958Z"
             },
             {
               "$type": "Bookmark",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guia6Login")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47fe3ba371f6dc7327f829ef15dc83379c527fd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guia6Login")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Guia6Login")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

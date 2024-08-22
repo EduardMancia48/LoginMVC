@@ -1,6 +1,9 @@
 using Guia6Login.Models;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace Guia6Login.Controllers
 {
@@ -15,7 +18,25 @@ namespace Guia6Login.Controllers
 
         public IActionResult Index()
         {
+            //obtener usuario auth
+            ClaimsPrincipal claimsUser = HttpContext.User;
+            string nombreUsuario = "";
+            string fotoPerfil = ""; 
             return View();
+            if(claimsUser.Identity.IsAuthenticated)
+            {
+                nombreUsuario = claimsUser.Claims.Where(c => c.Type == ClaimTypes.Name)
+                    .Select(c => c.Value).SingleOrDefault();
+
+
+               fotoPerfil= claimsUser.Claims.Where(c => c.Type == "FotoPerfil")
+                    .Select(c => c.Value).SingleOrDefault();
+
+            }
+            ViewData["nombreUsuario"] = nombreUsuario;
+            ViewData["fotoPerfil"] = fotoPerfil;
+            return View();
+
         }
 
         public IActionResult Privacy()
@@ -28,5 +49,12 @@ namespace Guia6Login.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public async Task<IActionResult> CerrarSesion()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("IniciarSesion", "Login");
+        }
+
     }
 }
